@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name         Auto Expand Spoilers
 // @namespace    https://tampermonkey.net/
-// @version      1.2.1
+// @license      MIT
+// @version      1.2.2
 // @description  Expand text/media spoilers with Tampermonkey menu controls
 // @match        *://*.threads.com/*
 // @match        *://*.facebook.com/*
