@@ -11,7 +11,7 @@ Automatically expands all spoilers on Threads / Facebook.
 
 ## Install
 
-👉 Click (here)[https://raw.githubusercontent.com/SISUBEN/threads-auto-expand-spoilers/main/threads-auto-expand-spoilers.user.js] to install:
+👉 Click [here](https://raw.githubusercontent.com/SISUBEN/threads-auto-expand-spoilers/main/threads-auto-expand-spoilers.user.js) to install:
 
 ## Usage
 
